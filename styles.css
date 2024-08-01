@@ -143,4 +143,18 @@ p {
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
 }
-/* Text animation */
+.direct-contact {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  background-color: #2c2a6354;
+  width: fit-content;
+  margin: 0 auto 5px;
+  color: var(--lightText);
+  border-radius: 5px;
+  padding: 6px 10px;
+}
+.direct-contact img {
+  width: 24px;
+}
