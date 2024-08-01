@@ -115,7 +115,7 @@ p {
 }
 .contact-info-container {
   width: 100%;
-  min-height: 400px;
+  min-height: 350px;
   position: relative;
 }
 .contact-info-container::after {
